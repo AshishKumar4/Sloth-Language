@@ -1,0 +1,4 @@
+1. raw string: a = b * c + (d(a,b) ** e);
+2. parse to lexicalTokens: string => lexicalTokens[]
+3. generate AST from lexicalTokens list: lexicalTokens[] => TreeNodes[]
+4. Execute AST using an interpreter: interpreter(TreeNodes[])
