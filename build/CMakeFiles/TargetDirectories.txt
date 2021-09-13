@@ -1,0 +1,3 @@
+/home/ashishkumarsingh/Desktop/Sloth-Language/build/CMakeFiles/rebuild_cache.dir
+/home/ashishkumarsingh/Desktop/Sloth-Language/build/CMakeFiles/edit_cache.dir
+/home/ashishkumarsingh/Desktop/Sloth-Language/build/CMakeFiles/Sloth.dir

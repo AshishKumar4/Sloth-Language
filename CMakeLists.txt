@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(Turtle)
+project(Sloth)
 
 ##########################################################################################################################
 #################################################### Finding Packages ####################################################
@@ -17,6 +17,7 @@ find_package(Threads REQUIRED)
 # Include the Necessary Headers
 include_directories(
     inc/
+    src/
     )
 
 # Initialize the Source Variables
